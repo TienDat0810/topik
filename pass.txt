@@ -1,0 +1,3 @@
+accountUser: pass: 123456
+account trang Admin: admin@gmail.com
+pass: 123456	
